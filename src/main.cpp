@@ -1,6 +1,6 @@
 #include <iostream>
-#include "include/ParametricInterpolationLagrange.h"
-#include "include/readData.h"
+#include "ParametricInterpolationLagrange.h"
+#include "readData.h"
 using namespace std;
 
 int main(int argc, char **argv)
